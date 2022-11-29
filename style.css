@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Rubik Distressed', cursive;
+}
+.btn-group-vertical{
+    position: absolute;
+    right:-1260px;
+    top:-24px;
+}
+.signup{
+    
+  position: absolute;
+  right:45px;
+  top: 50px;
+}
+.top-container{
+  background-color: #B9FFF8;
+}
+.mid-container{
+  background-color:#B9FFF8;
+}
+#im{
+  border-radius: 30px;
+}
+.caro{
+  margin:8% 10%;
+}
+.it{
+  position: absolute;
+  left:30px
+}
+.evil{
+  position: fixed;
+  right: 10px;
+}
+.bottom-container{
+  background-color: #B9FFF8;
+}
+.bt{
+  font-family: 'Rubik Distressed', cursive;
+}
+
+
+
+
